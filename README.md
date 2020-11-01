@@ -8,10 +8,10 @@ O programa cria um arquivo "HTML" com uma estrutura SVG interna, com tamanho fix
 Bom divertimento.
 
 
-- Regra inicial
-variáveis: F
-constantes: + -
-axiom: FX
-rules: (X → X+YF+)
-rules: (Y → -FX-Y)
-angulo: 90° (Fixo)
+Regra inicial:
+ - variáveis: "F"
+ - constantes: "+ -"
+ - axiom: "FX"
+ - rules: (X → X+YF+)
+ - rules: (Y → -FX-Y)
+ - angulo: 90° (Fixo)
