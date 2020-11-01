@@ -9,9 +9,9 @@ Bom divertimento.
 
 
 - Regra inicial
-variáveis: F
-constantes: + -
-axiom: FX
-rules: (X → X+YF+)
-rules: (Y → -FX-Y)
-angulo: 90° (Fixo)
+  variáveis: F
+  constantes: + -
+  axiom: FX
+  rules: (X → X+YF+)
+  rules: (Y → -FX-Y)
+  angulo: 90° (Fixo)
