@@ -1,0 +1,9 @@
+{
+    "axiom": "FX",
+    "rules": {
+        "X": "X+YF+",
+        "Y": "-FX-Y"
+    },
+    "initX": "600",
+    "initY": "1200"
+}
