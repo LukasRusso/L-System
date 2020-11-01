@@ -8,7 +8,7 @@ O programa cria um arquivo "HTML" com uma estrutura SVG interna, com tamanho fix
 Bom divertimento.
 
 
-- Regra inicial
+- Regra inicial \n
   variáveis: F
   constantes: + -
   axiom: FX
